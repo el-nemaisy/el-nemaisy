@@ -1,12 +1,12 @@
 ### Mohamed-Mahmoud-EL-Nemaisy
-Passionate-about-Artificial-Intelligence,-Machine-Learning,-and-Data-Science
+## Passionate-about-Artificial-Intelligence,-Machine-Learning,-and-Data-Science
 
-🔭 I'm studied AI and Machine Learning at **AMIT Learning - 9 Month Diploma**
-📝 I graduated from the Faculty of Engineering, Alexandria University, majoring in mechanical Engineering
-👨‍💻 You can find my projects on My GitHub Repository
-💬 Feel free to ask me about Machine Learning, Deep Learning, Computer Vision and NLP
-📫 You can reach me at [mohamed.elnemaisy@gmail.com](mohamed.elnemaisy@gmail.com)
-📄 Check out my experiences on My Resume
+-🔭 I'm studied AI and Machine Learning at **AMIT Learning - 9 Month Diploma**(## Passionate-about-Artificial-Intelligence,-Machine-Learning,-and-Data-Science)
+-📝 I graduated from the Faculty of Engineering, Alexandria University, majoring in mechanical Engineering(## Passionate-about-Artificial-Intelligence,-Machine-Learning,-and-Data-Science)
+-👨‍💻 You can find my projects on My GitHub Repository(## Passionate-about-Artificial-Intelligence,-Machine-Learning,-and-Data-Science)
+-💬 Feel free to ask me about Machine Learning, Deep Learning, Computer Vision and NLP(## Passionate-about-Artificial-Intelligence,-Machine-Learning,-and-Data-Science)
+-📫 You can reach me at [mohamed.elnemaisy@gmail.com](mohamed.elnemaisy@gmail.com)(## Passionate-about-Artificial-Intelligence,-Machine-Learning,-and-Data-Science)
+-📄 Check out my experiences on My Resume(## Passionate-about-Artificial-Intelligence,-Machine-Learning,-and-Data-Science)
 Connect with me:
 LinkedIn Kaggle Facebook
 
