@@ -1,16 +1,14 @@
-### Hi there 👋
+Mohamed Mahmoud EL-Nemaisy
+Passionate about Artificial Intelligence, Machine Learning, and Data Science
+👨‍💻 I'm currently a Machine Learning Engineer at Flothers
+🔭 I'm studied AI and Machine Learning at AMIT Learning - 9 Month Diploma
+📝 I graduated from the Faculty of Engineering, Alexandria University, majoring in mechanical Engineering
+👨‍💻 You can find my projects on My GitHub Repository
+💬 Feel free to ask me about Machine Learning, Deep Learning, Computer Vision and NLP
+📫 You can reach me at mohamed.elnemaisy@gmail.com
+📄 Check out my experiences on My Resume
+Connect with me:
+LinkedIn Kaggle Facebook
 
-<!--
-**el-nemaisy/el-nemaisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+Python C C++ TensorFlow scikit-learn OpenCV Pandas Seaborn Git Linux MySQL PostgreSQL Arduino
