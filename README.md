@@ -1,4 +1,4 @@
-  # Mohamed Mahmoud EL Nemaisy
+                  # Mohamed Mahmoud EL Nemaisy
 ## Passionate about Artificial Intelligence,Machine Learning,and Data Science
 
 - 🔭 I'm studied AI and Machine Learning at **AMIT Learning - 9 Month Diploma**
@@ -6,7 +6,7 @@
 - 👨‍💻 You can find my projects on My GitHub Repository
 - 💬 Feel free to ask me about **Machine Learning, Deep Learning, Computer Vision and NLP**
 - 📫 You can reach me at **[mohamed.elnemaisy@gmail.com](mohamed.elnemaisy@gmail.com)**
-- 📄 Check out my experiences on My Resume
+- 📄 Check out my experiences on **My Resume**
   
 ## Connect with me:
 
