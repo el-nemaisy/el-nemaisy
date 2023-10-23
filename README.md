@@ -1,5 +1,5 @@
-# Mohamed-Mahmoud-EL-Nemaisy
-## Passionate-about-Artificial-Intelligence,-Machine-Learning,-and-Data-Science
+# Mohamed Mahmoud EL Nemaisy
+## Passionate about Artificial Intelligence,Machine Learning,and Data Science
 
 - 🔭 I'm studied AI and Machine Learning at **AMIT Learning - 9 Month Diploma**
 - 📝 I graduated from the Faculty of Engineering, Alexandria University, majoring in mechanical Engineering
