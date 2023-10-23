@@ -8,9 +8,10 @@
 - 📫 You can reach me at [mohamed.elnemaisy@gmail.com](mohamed.elnemaisy@gmail.com)
 - 📄 Check out my experiences on My Resume
   
-Connect with me:
+## Connect with me:
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-el-nemaisy-00715919a/) [Kaggle](https://www.kaggle.com/mohamedelnemaisy/competitions) Facebook
 
 Languages and Tools:
+
 Python C C++ TensorFlow scikit-learn OpenCV Pandas Seaborn Git Linux MySQL PostgreSQL Arduino
