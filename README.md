@@ -2,7 +2,7 @@
 ## Passionate about Artificial Intelligence,Machine Learning,and Data Science
 
 - 🔭 I've studied AI and Machine Learning at **AMIT Learning - 9 Month Diploma**
-- 📝 I graduated from the **Faculty of Engineering, Alexandria University**majoring in **mechanical Engineering**
+- 📝 I graduated from the **Faculty of Engineering, Alexandria University** majoring in **mechanical Engineering**
 - 👨‍💻 You can find my projects on **[My GitHub Repository](https://github.com/el-nemaisy?tab=repositories)**
 - 💬 Feel free to ask me about **Machine Learning, Deep Learning, Computer Vision and NLP**
 - 📫 You can reach me at **[mohamed.elnemaisy@gmail.com](mohamed.elnemaisy@gmail.com)**
