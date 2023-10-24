@@ -10,11 +10,11 @@
   
 ## Connect with me:
 
-
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}) ![image]({https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white})
-
-[LinkedIn](https://www.linkedin.com/in/mohamed-el-nemaisy-00715919a/) [Kaggle](https://www.kaggle.com/mohamedelnemaisy/competitions) Facebook
+[LinkedIn](https://www.linkedin.com/in/mohamed-el-nemaisy-00715919a/) [Kaggle](https://www.kaggle.com/mohamedelnemaisy/competitions) 
 
 ## Languages and Tools:
+
+![image](https://github.com/el-nemaisy/el-nemaisy/assets/111059647/d5728224-6570-4acd-a3f5-68380943321a)
+
 
 Python C C++ TensorFlow scikit-learn OpenCV Pandas Seaborn Git Linux MySQL PostgreSQL Arduino
