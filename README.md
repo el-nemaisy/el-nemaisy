@@ -12,6 +12,9 @@
 
 📄
 
+![image](https://github.com/el-nemaisy/el-nemaisy/assets/111059647/ec004964-6e55-40e8-a55f-fe36bfb14e52)
+
+
 ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}) ![image]({https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white})
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-el-nemaisy-00715919a/) [Kaggle](https://www.kaggle.com/mohamedelnemaisy/competitions) Facebook
